@@ -271,7 +271,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🤨
-1b | Link to `commit #1 from Github.com` |
+1b | Link to `commit #1 from Github.com` |[link](https://github.com/colterGitHub/learn-git-milestones/commit/e6914823d24d3db3d71f1ffca27adae885dc566b)
 1c | Link to markdown tables docs |
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
